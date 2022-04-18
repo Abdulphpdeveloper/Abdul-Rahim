@@ -1,5 +1,5 @@
 import "./ExpenseItem.css";
-// we no need to call the passed attributes with the same name instead we can access as object
+// we no need to call the passed parameter with the same name instead we can access as object
 
 // here props will be equal to title,amount,date
 const ExpenseItem = (props) => {
